@@ -1,0 +1,16 @@
+data set info:
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+
+quickly looking at all variables in a data set
+https://datacritics.com/2018/02/28/melt-your-data-for-fast-visuals-with-your-dataset-in-r/
+
+adding vertical line for mean
+https://stackoverflow.com/questions/47000494/how-to-add-mean-and-mode-to-ggplot-histogram
+
+smoothed density plots
+https://ggplot2.tidyverse.org/reference/geom_density.html
+
+information on wine and wine yeast
+https://winefolly.com/deep-dive/vinho-verde-the-perfect-poolside-wine-from-portugal/
+https://wyeastlab.com/yeast-strain/dryfortified
+https://wyeastlab.com/yeast-strain/sweet-white
